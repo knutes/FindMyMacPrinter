@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DB587301-E301-4AEF-8B19-DC45D80B0443}|Default">
+  <MonoDevelop.Ide.ItemProperties.FindMyMacPrinter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindMyMacPrinter/Program.cs">
+    <Files>
+      <File FileName="FindMyMacPrinter/Program.cs" Line="9" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FindMyMacPrinter" expanded="True">
+            <Node name="FindMyMacPrinter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

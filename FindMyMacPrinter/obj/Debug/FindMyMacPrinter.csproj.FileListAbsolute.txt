@@ -1,0 +1,6 @@
+/Users/mcsi/Projects/FindMyMacPrinter/FindMyMacPrinter/bin/Debug/FindMyMacPrinter.exe
+/Users/mcsi/Projects/FindMyMacPrinter/FindMyMacPrinter/bin/Debug/FindMyMacPrinter.pdb
+/Users/mcsi/Projects/FindMyMacPrinter/FindMyMacPrinter/bin/Debug/SnmpSharpNet.dll
+/Users/mcsi/Projects/FindMyMacPrinter/FindMyMacPrinter/obj/Debug/FindMyMacPrinter.csproj.CopyComplete
+/Users/mcsi/Projects/FindMyMacPrinter/FindMyMacPrinter/obj/Debug/FindMyMacPrinter.exe
+/Users/mcsi/Projects/FindMyMacPrinter/FindMyMacPrinter/obj/Debug/FindMyMacPrinter.pdb
